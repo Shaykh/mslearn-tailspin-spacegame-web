@@ -1,4 +1,6 @@
 
+[![Build Status](https://diabycheick.visualstudio.com/Tailspin%20Space%20Game%20-%20web/_apis/build/status/Shaykh.mslearn-tailspin-spacegame-web?branchName=master)](https://diabycheick.visualstudio.com/Tailspin%20Space%20Game%20-%20web/_build/latest?definitionId=1&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
